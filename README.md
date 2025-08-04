@@ -89,13 +89,15 @@ mensagem.txt → Arquivo criado e manipulado no Google Cloud Shell.
 comandos.txt → Histórico de todos os comandos executados durante a prática.
 
 📌 Conceitos Praticados
-Computação em Nuvem: uso de recursos computacionais via internet.
+-Computação em Nuvem: uso de recursos computacionais via internet.
 
-Google Cloud Shell: terminal remoto que roda em uma máquina virtual no Google Cloud.
+-Google Cloud Shell: terminal remoto que roda em uma máquina virtual no Google Cloud.
 
-Manipulação de arquivos via terminal.
+-Manipulação de arquivos via terminal.
 
-Versionamento com GitHub para portfólio acadêmico e profissional.
+-Infraestrutura como Serviço (IaaS): uso de máquina virtual provisionada pelo provedor de nuvem.
+
+-Versionamento com GitHub para portfólio acadêmico e profissional.
 
 
  📌Quando você criou o mensagem.txt no Google Cloud Shell, ele foi criado e armazenado diretamente em uma máquina virtual do Google Cloud, ou seja, na nuvem, não no seu computador.
