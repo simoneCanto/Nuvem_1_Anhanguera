@@ -1,0 +1,3 @@
+Meu primeiro comando na nuvem
+Adicionando uma segunda linha no arquivo
+Feito pelo Cloud Shell
