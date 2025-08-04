@@ -97,6 +97,40 @@ Manipulação de arquivos via terminal.
 
 Versionamento com GitHub para portfólio acadêmico e profissional.
 
+
+## Quando você criou o mensagem.txt no Google Cloud Shell, ele foi criado e armazenado diretamente em uma máquina virtual do Google Cloud, ou seja, na nuvem, não no seu computador.
+
+#🔍 Como isso funciona
+
+-Ao abrir o Cloud Shell, o Google provisiona (cria automaticamente) uma máquina virtual Linux para você.
+
+-Essa VM está rodando dentro da infraestrutura do Google, em um data center.
+
+Quando você executou:
+
+bash
+
+Copiar
+
+Editar
+
+echo "Meu primeiro comando na nuvem" > mensagem.txt
+
+o arquivo foi salvo no sistema de arquivos dessa VM remota.
+
+Você só visualizou e manipulou o arquivo pelo terminal, mas ele não existia no seu computador até você fazer o download.
+
+#💡 Por isso, essa atividade já é um exemplo prático de IaaS (Infraestrutura como Serviço):
+
+-O Google fornece uma máquina virtual.
+
+-Você cria e gerencia arquivos/programas nela.
+
+-Não precisou instalar nada localmente.
+
+
+
+
 ✍️ Autora
 Simone Tatiane do Canto – Professora de Computação em Nuvem
 📧 Contato: simone.canto@cogna.com.br
