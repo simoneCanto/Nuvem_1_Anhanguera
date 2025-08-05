@@ -38,34 +38,30 @@ echo "Meu primeiro comando na nuvem" > mensagem.txt
 -O arquivo foi salvo diretamente na máquina virtual da nuvem.
 
 3️⃣ Adicionando novas linhas
-bash
-Copiar
-Editar
+
 echo "Adicionando uma segunda linha no arquivo" >> mensagem.txt
+
 echo "Feito pelo Cloud Shell" >> mensagem.txt
+
 O operador >> acrescenta texto ao final do arquivo, sem apagar o conteúdo anterior.
 
 4️⃣ Visualizando o conteúdo do arquivo
-bash
-Copiar
-Editar
+
 cat mensagem.txt
+
 Mostra o conteúdo do arquivo no terminal.
 
 5️⃣ Registrando o histórico de comandos
-bash
-Copiar
-Editar
+
 history > comandos.txt
+
 Salva no arquivo comandos.txt todos os comandos executados na sessão atual.
 
 Pode ser editado com:
 
-bash
-Copiar
-Editar
 nano comandos.txt
 6️⃣ Download dos arquivos
+
 No Cloud Shell, clicar nos três pontos (⋮) do canto superior direito.
 
 Selecionar Download file.
@@ -109,10 +105,6 @@ comandos.txt → Histórico de todos os comandos executados durante a prática.
 -Essa VM está rodando dentro da infraestrutura do Google, em um data center.
 
 Quando você executou:
-
-bash
-Copiar
-Editar
 
 echo "Meu primeiro comando na nuvem" > mensagem.txt
 
