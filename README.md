@@ -60,6 +60,7 @@ Salva no arquivo comandos.txt todos os comandos executados na sessão atual.
 Pode ser editado com:
 
 nano comandos.txt
+
 6️⃣ Download dos arquivos
 
 No Cloud Shell, clicar nos três pontos (⋮) do canto superior direito.
@@ -71,6 +72,7 @@ Digitar o nome do arquivo (mensagem.txt ou comandos.txt).
 Os arquivos são baixados para o computador local.
 
 7️⃣ Upload para o GitHub
+
 Criar um repositório no GitHub chamado computacao-nuvem.
 
 Clicar em Add file → Upload files.
@@ -80,11 +82,13 @@ Selecionar os arquivos mensagem.txt e comandos.txt.
 Clicar em Commit changes.
 
 📂 Arquivos deste Repositório
+
 mensagem.txt → Arquivo criado e manipulado no Google Cloud Shell.
 
 comandos.txt → Histórico de todos os comandos executados durante a prática.
 
 📌 Conceitos Praticados
+
 -Computação em Nuvem: uso de recursos computacionais via internet.
 
 -Google Cloud Shell: terminal remoto que roda em uma máquina virtual no Google Cloud.
